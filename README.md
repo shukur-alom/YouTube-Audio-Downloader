@@ -17,16 +17,11 @@ This Python script allows users to download audio from a YouTube video and play 
    - Clone the repository to your local machine.
 
      ```shell
-     git clone https://github.com/your-repo/youtube-audio-downloader.git
-     cd youtube-audio-downloader
+     git clone https://github.com/shukur-alom/YouTube-Audio-Downloader.git
      ```
 
 ## Credits
 
-This script was created by [Your Name] and is provided under the [License Type] license. You are free to use, modify, and distribute it according to the terms of the license.
+This script was created by [Shukur Alam](https://github.com/shukur-alom) and is provided under the [MIT] license. You are free to use, modify, and distribute it according to the terms of the license.
 
 If you find this script useful, please consider giving credit by mentioning the original author and repository link.
-
-## License
-
-This project is licensed under the [License Type] license. Please refer to the [LICENSE](LICENSE) file for detailed licensing information.
