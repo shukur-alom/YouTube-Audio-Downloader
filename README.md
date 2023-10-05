@@ -1,6 +1,6 @@
 # YouTube Audio Downloader
 
-This Python script allows users to download audio from a YouTube video and play it using their default audio player.
+This Python script allows users to download audio from a YouTube video.
 
 ## Features
 
